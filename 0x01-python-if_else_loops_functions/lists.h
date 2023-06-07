@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * struct listint_s - single link lists
- * @n: integeri
+ * @n: int
  * @next: point next nodes
  *
  * Description: single links list node structures
